@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<xml>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>869</Valor>
+        <Equipament>Escenari Joan Brossa</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>01</Codi_Districte>
+        <Nom_Districte>Ciutat Vella</Nom_Districte>
+        <Codi_Barri>04</Codi_Barri>
+        <Nom_Barri>Sant Pere, Santa Caterina i la Ribera</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.385217359</Latitud>
+        <Longitud>2.182361375</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>7440</Valor>
+        <Equipament>Fabra i Coats - Fàbrica de Creació</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>09</Codi_Districte>
+        <Nom_Districte>Sant Andreu</Nom_Districte>
+        <Codi_Barri>60</Codi_Barri>
+        <Nom_Barri>Sant Andreu</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Multidisciplinaris i altres</Ambit>
+        <Latitud>41.433558800</Latitud>
+        <Longitud>2.191379525</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>1000</Valor>
+        <Equipament>Graner</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>03</Codi_Districte>
+        <Nom_Districte>Sants-Montjuïc</Nom_Districte>
+        <Codi_Barri>13</Codi_Barri>
+        <Nom_Barri>la Marina de Port</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.361492275</Latitud>
+        <Longitud>2.135956703</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>2600</Valor>
+        <Equipament>Hangar</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>10</Codi_Districte>
+        <Nom_Districte>Sant Martí</Nom_Districte>
+        <Codi_Barri>71</Codi_Barri>
+        <Nom_Barri>Provençals del Poblenou</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts visuals</Ambit>
+        <Latitud>41.407975</Latitud>
+        <Longitud>2.198792</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>1086</Valor>
+        <Equipament>La Caldera</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>04</Codi_Districte>
+        <Nom_Districte>Les Corts</Nom_Districte>
+        <Codi_Barri>19</Codi_Barri>
+        <Nom_Barri>les Corts</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.3841617</Latitud>
+        <Longitud>2.1286503999999695</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>3000</Valor>
+        <Equipament>La Central del Circ</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>10</Codi_Districte>
+        <Nom_Districte>Sant Martí</Nom_Districte>
+        <Codi_Barri>70</Codi_Barri>
+        <Nom_Barri>el Besòs i el Maresme</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.411256</Latitud>
+        <Longitud>2.22647</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>1100</Valor>
+        <Equipament>La Escocesa</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>10</Codi_Districte>
+        <Nom_Districte>Sant Martí</Nom_Districte>
+        <Codi_Barri>71</Codi_Barri>
+        <Nom_Barri>Provençals del Poblenou</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts visuals</Ambit>
+        <Latitud>41.411243983</Latitud>
+        <Longitud>2.203826943</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>1500</Valor>
+        <Equipament>Nau Ivanow</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>09</Codi_Districte>
+        <Nom_Districte>Sant Andreu</Nom_Districte>
+        <Codi_Barri>61</Codi_Barri>
+        <Nom_Barri>la Sagrera</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.420017781</Latitud>
+        <Longitud>2.189849370</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>2653</Valor>
+        <Equipament>Sala Beckett</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>10</Codi_Districte>
+        <Nom_Districte>Sant Martí</Nom_Districte>
+        <Codi_Barri>68</Codi_Barri>
+        <Nom_Barri>el Poblenou</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.404734</Latitud>
+        <Longitud>2.199518</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+    <fabriques_creacio_metres_quadrats_2019>
+        <Any>2019</Any>
+        <Indicador>Metres_Quadrats</Indicador>
+        <Valor>575</Valor>
+        <Equipament>Teatre Tantarantana</Equipament>
+        <Notes_Dades/>
+        <Notes_Equipament/>
+        <Codi_Districte>01</Codi_Districte>
+        <Nom_Districte>Ciutat Vella</Nom_Districte>
+        <Codi_Barri>01</Codi_Barri>
+        <Nom_Barri>el Raval</Nom_Barri>
+        <Titularitat>Ajuntament de Barcelona</Titularitat>
+        <TipusGeneral>Fàbriques de Creació</TipusGeneral>
+        <TipusEquipament>Fàbriques de Creació</TipusEquipament>
+        <Ambit>Arts escèniques</Ambit>
+        <Latitud>41.375938056</Latitud>
+        <Longitud>2.167361110</Longitud>
+    </fabriques_creacio_metres_quadrats_2019>
+</xml>
